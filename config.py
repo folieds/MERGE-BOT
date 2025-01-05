@@ -2,9 +2,9 @@ import os
 
 
 class Config(object):
-    API_HASH = os.environ.get("API_HASH")
+    API_HASH = os.environ.get("8121c78f4b8b31e88cc2623d1277338d")
     BOT_TOKEN = os.environ.get("BOT_TOKEN")
-    TELEGRAM_API = os.environ.get("TELEGRAM_API")
+    TELEGRAM_API = os.environ.get("24371796")
     OWNER = os.environ.get("OWNER")
     OWNER_USERNAME = os.environ.get("OWNER_USERNAME")
     PASSWORD = os.environ.get("PASSWORD")
