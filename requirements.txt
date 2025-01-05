@@ -4,7 +4,7 @@ hachoir
 Pillow
 psutil
 pymongo
-Pyrogram
+git+https://github.com/KurimuzonAkuma/pyrogram
 pyromod
 python-dotenv
 requests
